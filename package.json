@@ -1,0 +1,24 @@
+{
+  "name": "mix-d",
+  "version": "1.1.0",
+  "description": "Same drink list but adding my own database and reusable templates via handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinrichsad/mix-d.git"
+  },
+  "author": "Andrew Hinrichs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinrichsad/mix-d/issues"
+  },
+  "homepage": "https://github.com/hinrichsad/mix-d#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1"
+  }
+}
